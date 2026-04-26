@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Hi There, Welcome to My GitHub</h1>
 
-<!--
-**smmirjamali-web/smmirjamali-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm currently learning <b>Python</b>, <b>Django</b>, and <b>Linux</b> — and I’m also interested in <b>Network Security</b>.  
+This GitHub profile is where I share my journey as I learn and build new things.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- 🐍 Python Programming  
+- 🌐 Django Framework  
+- 🐧 Linux & Command Line  
+- 🔐 Network & Security Basics  
+
+---
+
+## 🧪 What You’ll Find Here
+- Beginner-friendly practice projects  
+- Small tools & experimental scripts  
+- Learning-based repositories  
+- Things I build while improving step-by-step  
+
+---
+
+## 🎯 My Goals
+- Build a strong foundation in Python & Django  
+- Get comfortable with Linux  
+- Learn more about security and networking  
+- Gradually move toward more advanced projects  
+
+---
+
+## ✨ Note
+This profile is **part of my learning journey** — many projects here are practice-based and will improve over time.
+
+---
+
+<p align="center">Thanks for visiting my profile 🌿</p>
