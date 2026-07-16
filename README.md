@@ -36,4 +36,14 @@ This profile is **part of my learning journey** — many projects here are pract
 
 ---
 
+## 🤝 Connect with Me
+
+I'm always open to connecting with fellow developers and learning from others!
+
+- **LinkedIn:** [Mahdi Mirjamali](https://www.linkedin.com/in/mahdi-mirjamali-06b423415/)
+
+- **Email:** smmirjamali@gmail.com
+
+Feel free to reach out for collaboration, feedback, or just a chat! 😊
+
 <p align="center">Thanks for visiting my profile 🌿</p>
